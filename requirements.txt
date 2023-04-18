@@ -1,0 +1,8 @@
+numpy
+nltk
+datasets
+tensorflow
+wandb
+rouge
+torch
+transformers
