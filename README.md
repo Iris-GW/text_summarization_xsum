@@ -1,6 +1,6 @@
 # Text Summarization with Seq2Seq, Transformers, and Reinforcement Learning
 
-This repository contains code for three different methods of text summarization using the XSum dataset:
+This repository contains Jupyter notebooks for three different methods of text summarization using the XSum dataset:
 
 1. Sequence-to-Sequence (Seq2Seq) model
 2. Transformers (T5) model
@@ -66,11 +66,11 @@ The model is evaluated using the test dataset, and the BLEU and ROUGE scores are
 
 ## Usage
 
-To run each of the methods, execute the corresponding Python script:
+To run each of the methods, open the corresponding Jupyter notebook:
 
-- Seq2Seq: `python seq2seq_summarization.py`
-- Transformers (T5): `python t5_summarization.py`
-- Reinforcement Learning (T5 with PPO): `python rl_t5_summarization.py`
+- Seq2Seq: `seq2seq_summarization.ipynb`
+- Transformers (T5): `t5_summarization.ipynb`
+- Reinforcement Learning (T5 with PPO): `rl_t5_summarization.ipynb`
 
 ## License
 
