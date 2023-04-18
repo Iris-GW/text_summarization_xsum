@@ -1,8 +1,9 @@
 numpy
 nltk
 datasets
-tensorflow
 wandb
 rouge
 torch
 transformers
+tensorflow-macos
+sentencepiece
